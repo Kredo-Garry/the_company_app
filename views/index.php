@@ -23,6 +23,9 @@
                     </form>
                     <p class="text-center small mt-2">Create Account <a href="../views/Register.php">Register</a></p>
                 </div>
+                <div>
+                  <p>This is a test.</p>
+                </div>
             </div>
         </div>
     </div>
